@@ -13,7 +13,10 @@ let marker = L.marker([45.52, -122.67], {
 }).addTo(myMap);
 
 
-
+### Adding Task List 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world! 
 
 
 
